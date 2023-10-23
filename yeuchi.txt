@@ -1,3 +1,7 @@
 :3
 yeu chi quãiiii
+<<<<<<< HEAD
 Yeuuuu
+=======
+conflig cho zui
+>>>>>>> cf8fcd1754868baf3e55e0df1a53a04406fb91e8
